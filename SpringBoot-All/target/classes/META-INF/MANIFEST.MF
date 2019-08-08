@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-All
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: naren
+Implementation-Vendor-Id: com.narend.kadiri
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot-All
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,8 @@
+com/naren/Book.class
+com/naren/BookRepository.class
+com/naren/Application.class
+com/naren/StartBookApplication.class
+com/naren/error/BookNotFoundException.class
+com/naren/BookController.class
+com/naren/CustomGlobalExceptionHandler.class
+com/naren/error/BookUnSupportedFieldPatchException.class
